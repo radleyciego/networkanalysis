@@ -2,7 +2,7 @@
 
 <b> Author: Radley Ciego </b>
 
-This notebook details the main functionaliry of UrbanAccess with examples using MTA GTFS data, Census block, and OpenStreetMap (OSM) pedestrian network data to create an integrated transit and pedestrian network for New York, NY for use in Pandana network accessibility queries.
+This notebook details the main functionality of UrbanAccess with examples using MTA GTFS data, Census block, and OpenStreetMap (OSM) pedestrian network data to create an integrated transit and pedestrian network for New York, NY for use in Pandana network accessibility queries.
 
 <b> UrbanAccess on UDST: </b> https://github.com/UDST/urbanaccess 
 
